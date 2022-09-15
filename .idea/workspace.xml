@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8eabd10e-d733-40f1-b0f9-b04c172dbb38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BigRectLister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BigRectangleFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShortLister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShortWordFilter.java" afterDir="false" />
+    <list default="true" id="8eabd10e-d733-40f1-b0f9-b04c172dbb38" name="Changes" comment="initial">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +43,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663163589588</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1663165459845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663165459845</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,5 +63,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
 </project>

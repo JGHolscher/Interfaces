@@ -1,4 +1,4 @@
-//done
+//FFFFFFIIIIIIIXXXXXXX
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -22,7 +22,7 @@ public static void main(String[] args) {
     objects.add(e2);
     objects.add(e3);
 
-    Filter.CollectAll(objects);////here right here is the problem
+    Filter.CollectAll(objects);////here right here is the problem+++++++++++++
 
     /////////////////////////////////////////////////////////////////////
 

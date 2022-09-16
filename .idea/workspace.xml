@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="8eabd10e-d733-40f1-b0f9-b04c172dbb38" name="Changes" comment="no">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BigRectangleFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BigRectangleFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShortLister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShortLister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShortWordFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShortWordFilter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +41,36 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/gray/IdeaProjects/Interfaces&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.ShortLister">
+    <configuration name="CollectAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectAll" />
+      <module name="Interfaces" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Interfaces" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShortLister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShortLister" />
+      <module name="Interfaces" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShortLister" />
+        <item itemvalue="Application.CollectAll" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663265028368</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="no">
+      <created>1663285734335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663285734335</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

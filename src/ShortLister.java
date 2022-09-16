@@ -1,12 +1,14 @@
 //FFFFFFIIIIIIIXXXXXXX
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.IOException;
+import java.io.*;
+import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Scanner;
 
 import javax.swing.JFileChooser;
+
+import static java.nio.file.StandardOpenOption.CREATE;
 
 public class ShortLister {
 //lets the user pick a text file (JFileChooser)
@@ -21,8 +23,8 @@ public static void main(String[] args) {
     objects.add(e1);
     objects.add(e2);
     objects.add(e3);
-
-    Filter.CollectAll(objects);////here right here is the problem+++++++++++++
+///somthing going on here ummmmmmm?????
+    CollectAll.CollectAll(objects);////here right here is the problem+++++++++++++
 
     /////////////////////////////////////////////////////////////////////
 
@@ -67,7 +69,3 @@ public static void main(String[] args) {
         }
     }
 }
-
-
-
-

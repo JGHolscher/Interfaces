@@ -55,7 +55,7 @@ public class CollectAll {
 
             for (Filter ob : objects) // tc:=each. .costs=arraylists
             {
-                System.out.println(ob.accept(""));
+                System.out.println(ob.accept());
             }
 
             writer.close();

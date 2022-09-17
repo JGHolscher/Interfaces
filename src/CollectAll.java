@@ -13,6 +13,7 @@ import static java.nio.file.StandardOpenOption.CREATE;
 public class CollectAll {
 
 
+    /////////////SOMETHING IS WRONG HERE///////////////////////
     public static ArrayList<Object> CollectAll(ArrayList<Object> objects, Filter f) {
         ArrayList<Object> result = new ArrayList<Object>();
 

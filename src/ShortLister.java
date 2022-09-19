@@ -41,6 +41,7 @@ public class ShortLister {
                     line = inFile.nextLine();
                     shortWords.add(line);
                 }
+                    System.out.println(shortWords);//only to show it worked in ss - unfiltered
                    System.out.println(CollectAll(myShortWordFilter, shortWords.toArray()));//..................................................
 
                 inFile.close();

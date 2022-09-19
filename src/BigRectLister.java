@@ -23,7 +23,7 @@ public class BigRectLister {
         //creates an ArrayList of 10 Rectangles of diff sizes
         ArrayList<Rectangle> bigRect = new ArrayList<Rectangle>();
 
-        Rectangle r1 = new Rectangle(2,5); //big
+        Rectangle r1 = new Rectangle(2,6); //big
         Rectangle r2 = new Rectangle(1,3);//6
         Rectangle r3 = new Rectangle(78,90);//big
         Rectangle r4 = new Rectangle(5,7); //big
@@ -47,7 +47,7 @@ public class BigRectLister {
 
     //Use the collectAll method
     // to list the rectangles that have big perimeters only
-
+        System.out.println(bigRect);//only to show it worked in ss - unfiltered
         System.out.println(CollectAll(myBigRectangleFilter, bigRect.toArray()));
     }
 

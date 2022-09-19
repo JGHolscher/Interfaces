@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eabd10e-d733-40f1-b0f9-b04c172dbb38" name="Changes" comment="no">
+      <change afterPath="$PROJECT_DIR$/src/shortWords" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BigRectLister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BigRectLister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BigRectangleFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BigRectangleFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ShortLister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShortLister.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ShortWordFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShortWordFilter.java" afterDir="false" />
     </list>
@@ -39,6 +43,13 @@
   }
 }</component>
   <component name="RunManager" selected="Application.ShortLister">
+    <configuration name="BigRectLister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BigRectLister" />
+      <module name="Interfaces" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollectAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CollectAll" />
       <module name="Interfaces" />
@@ -63,6 +74,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ShortLister" />
+        <item itemvalue="Application.BigRectLister" />
         <item itemvalue="Application.CollectAll" />
         <item itemvalue="Application.Main" />
       </list>
@@ -133,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663353090777</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="no">
+      <created>1663446341250</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663446341250</updated>
+    </task>
+    <task id="LOCAL-00010" summary="no">
+      <created>1663446388566</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663446388566</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

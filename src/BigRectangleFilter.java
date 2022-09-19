@@ -1,23 +1,18 @@
 //done
 import java.awt.*;
 
-public class BigRectangleFilter implements Filter{//implements the Filter interface
+public class BigRectangleFilter implements Filter {//implements the Filter interface
 
-    //public static boolean accept = true;
-    //public static boolean accept;
-    private Rectangle rect;
-    public BigRectangleFilter(Rectangle rect) {
-        this.rect = rect;
-    }
-
+    public BigRectangleFilter() {}
     @Override//accepts all java Rectangle objects // that have a perimeter > 10.
-    public boolean accept(Object obj) {
-        Rectangle rect = (Rectangle) obj;
-        return (rect.height * rect.width) > 10;
-
+    public boolean accept(Object x) {
+        Rectangle rect;
+        rect = (Rectangle) x;
+        boolean pr;
+        pr = (((rect.width * rect.height) * 2) > 10);
+        if (pr) {
+            return pr;
+        }
+        return false;
     }
-
 }
-
-
-
